@@ -1,0 +1,500 @@
+≈˚  107  AGAAGCGTGCAGCTGAGAGGCATCCAGAAAAGTATCAGGGTAGTTCTGTTTCAAACTTGCATGTGGAGCC
+  108  ATGTGGCACAAATACTCATGCCAGCTCATTACAGCATGAGAACAGCAGTTTATTACTCACTAAAGACAGA
+  109  ATGAATGTAGAAAAGGCTGAATTCTGTAATAAAAGCAAACAGCCTGGCTTAGCAAGGAGCCAACATAACA
+  110  GATGGGCTGGAAGTAAGGAAACATGTAATGATAGGCGGACTCCCAGCACAGAAAAAAAGGTAGATCTGAA
+  111  TGCTGATCCCCTGTGTGAGAGAAAAGAATGGAATAAGCAGAAACTGCCATGCTCAGAGAATCCTAGAGAT
+ GATAACACTAAATAGCAGCATTCAGAAAGTTAATGAGTGGTTTTCCAGAAGTG
+  113  ATGAACTGTTAGGTTCTGATGACTCACATGATGGGGAGTCTGAATCAAATGCCAAAGTAGCTGATGTATT
+  114  GGACGTTCTAAATGAGGTAGATGAATATTCTGGTTCTTCAGAGAAAATAGACTTACTGGCCAGTGATCCT
+  115  CATGAGGCTTTAATATGTAAAAGTGAAAGAGTTCACTCCAAATCAGTAGAGAGTAATATTGAAGACAAAA
+  116  TATTTGGGAAAACCTATCGGAAGAAGGCAAGCCTCCCCAACTTAAGCCATGTAACTGAAAATCTAATTAT
+  117  AGGAGCATTTGTTACTGAGCCACAGATAATACAAGAGCGTCCCCTCACAAATAAATTAAAGCGTAAAAGG
+  118  AGACCTACATCAGGCCTTCATCCTGAGGATTTTATCAAGAAAGCAGATTTGGCAGTTCAAAAGACTCCTG
+  119  AAATGATAAATCAGGGAACTAACCAAACGGAGCAGAATGGTCAAGTGATGAATATTACTAATAGTGGTCA
+  120  TGAGAATAAAACAAAAGGTGATTCTATTCAGAATGAGAAAAATCCTAACCCAATAGAATCACTCGAAAAA
+  121  GAATCTGCTTTCAAAACGAAAGCTGAACCTATAAGCAGCAGTATAAGCAATATGGAACTCGAATTAAATA
+  122  TCCACAATTCAAAAGCACCTAAAAAGAATAGGCTGAGGAGGAAGTCTTCTACCAGGCATATTCATGCGCT
+  123  TGAACTAGTAGTCAGTAGAAATCTAAGCCCACCTAATTGTACTGAATTGCAAATTGATAGTTGTTCTAGC
+  124  AGTGAAGAGATAAAGAAAAAAAAGTACAACCAAATGCCAGTCAGGCACAGCAGAAACCTACAACTCATGG
+  125  AAGGTAAAGAACCTGCAACTGGAGCCAAGAAGAGTAACAAGCCAAATGAACAGACAAGTAAAAGACATGA
+  126  CAGCGATACTTTCCCAGAGCTGAAGTTAACAAATGCACCTGGTTCTTTTACTAAGTGTTCAAATACCAGT
+  127  GAACTTAAAGAATTTGTCAATCCTAGCCTTCCAAGAGAAGAAAAAGAAGAGAAACTAGAAACAGTTAAAG
+  128  TGTCTAATAATGCTGAAGACCCCAAAGATCTCATGTTAAGTGGAGAAAGGGTTTTGCAAACTGAAAGATC
+  129  TGTAGAGAGTAGCAGTATTTCATTGGTACCTGGTACTGATTATGGCACTCAGGAAAGTATCTCGTTACTG
+  130  GAAGTTAGCACTCTAGGGAAGGCAAAAACAGAACCAAATAAATGTGTGAGTCAGTGTGCAGCATTTGAAA
+  131  ACCCCAAGGGACTAATTCATGGTTGTTCCAAAGATAATAGAAATGACACAGAAGGCTTTAAGTATCCATT
+  132  GGGACATGAAGTTAACCACAGTCGGGAAACAAGCATAGAAATGGAAGAAAGTGAACTTGATGCTCAGTAT
+  133  TTGCAGAATACATTCAAGGTTTCAAAGCGCCAGTCATTTGCTCCGTTTTCAAATCCAGGAAATGCAGAAG
+  134  AGGAATGTGCAACATTCTCTGCCCACTCTGGGTCCTTAAAGAAACAAAGTCCAAAAGTCACTTTTGAATG
+  135  TGAACAAAAGGAAGAAAATCAAGGAAAGAATGAGTCTAATATCAAGCCTGTACAGACAGTTAATATCACT
+  136  GCAGGCTTTCCTGTGGTTGGTCAGAAAGATAAGCCAGTTGATAATGCCAAATGTAGTATCAAAGGAGGCT
+  137  CTAGGTTTTGTCTATCATCTCAGTTCAGAGGCAACGAAACTGGACTCATTACTCCAAATAAACATGGACT
+  138  TTTACAAAACCCATATCGTATACCACCACTTTTTCCCATCAAGTCATTTGTTAAAACTAAATGTAAGAAA
+  139  AATCTGCTAGAGGAAAACTTTGAGGAACATTCAATGTCACCTGAAAGAGAAATGGGAAATGAGAACATTC
+  140  CAAGTACAGTGAGCACAATTAGCCGTAATAACATTAGAGAAAATGTTTTTAAAGAAGCCAGCTCAAGCAA
+  141  TATTAATGAAGTAGGTTCCAGTACTAATGAAGTGGGCTCCAGTATTAATGAAATAGGTTCCAGTGATGAA
+  142  AACATTCAAGCAGAACTAGGTAGAAACAGAGGGCCAAAATTGAATGCTATGCTTAGATTAGGGGTTTTGC
+  143  AACCTGAGGTCTATAAACAAAGTCTTCCTGGAAGTAATTGTAAGCATCCTGAAATAAAAAAGCAAGAATA
+  144  TGAAGAAGTAGTTCAGACTGTTAATACAGATTTCTCTCCATATCTGATTTCAGATAACTTAGAACAGCCT
+  145  ATGGGAAGTAGTCATGCATCTCAGGTTTGTTCTGAGACACCTGATGACCTGTTAGATGATGGTGAAATAA
+  146  AGGAAGATACTAGTTTTGCTGAAAATGACATTAAGGAAAGTTCTGCTGTTTTTAGCAAAAGCGTCCAGAA
+  147  AGGAGAGCTTAGCAGGAGTCCTAGCCCTTTCACCCATACACATTTGGCTCAGGGTTACCGAAGAGGGGCC
+  148  AAGAAATTAGAGTCCTCAGAAGAGAACTTATCTAGTGAGGATGAAGAGCTTCCCTGCTTCCAACACTTGT
+  149  TATTTGGTAAAGTAAACAATATACCTTCTCAGTCTACTAGGCATAGCACCGTTGCTACCGAGTGTCTGTC
+  150  TAAGAACACAGAGGAGAATTTATTATCATTGAAGAATAGCTTAAATGACTGCAGTAACCAGGTAATATTG
+  151  GCAAAGGCATCTCAGGAACATCACCTTAGTGAGGAAACAAAATGTTCTGCTAGCTTGTTTTCTTCACAGT
+  152  GCAGTGAATTGGAAGACTTGACTGCAAATACAAACACCCAGGATCCTTTCTTGATTGGTTCTTCCAAACA
+  153  AATGAGGCATCAGTCTGAAAGCCAGGGAGTTGGTCTGAGTGACAAGGAATTGGTTTCAGATGATGAAGAA
+  154  AGAGGAACGGGCTTGGAAGAAAATAATCAAGAAGAGCAAAGCATGGATTCAAACTTAGGTGAAGCAGCAT
+  155  CTGGGTGTGAGAGTGAAACAAGCGTCTCTGAAGACTGCTCAGGGCTATCCTCTCAGAGTGACATTTTAAC
+  156  CACTCAGCAGAGGGATACCATGCAACATAACCTGATAAAGCTCCAGCAGGAAATGGCTGAACTAGAAGCT
+  157  GTGTTAGAACAGCATGGGAGCCAGCCTTCTAACAGCTACCCTTCCATCATAAGTGACTCTTCTGCCCTTG
+  158  AGGACCTGCGAAATCCAGAACAAAGCACATCAGAAAAAGCAGTATTAACTTCACAGAAAAGTAGTGAATA
+  159  CCCTATAAGCCAGAATCCAGAAGGCCTTTCTGCTGACAAGTTTGAGGTGTCTGCAGATAGTTCTACCAGT
+  160  AAAAATAAAGAACCAGGAGTGGAAAGGTCATCCCCTTCTAAATGCCCATCATTAGATGATAGGTGGTACA
+  161  TGCACAGTTGCTCTGGGAGTCTTCAGAATAGAAACTACCCATCTCAAGAGGAGCTCATTAAGGTTGTTGA
+  162  TGTGGAGGAGCAACAGCTGGAAGAGTCTGGGCCACACGATTTGACGGAAACATCTTACTTGCCAAGGCAA
+  163  GATCTAGAGGGAACCCCTTACCTGGAATCTGGAATCAGCCTCTTCTCTGATGACCCTGAATCTGATCCTT
+  164  CTGAAGACAGAGCCCCAGAGTCAGCTCGTGTTGGCAACATACCATCTTCAACCTCTGCATTGAAAGTTCC
+  165  CCAATTGAAAGTTGCAGAATCTGCCCAGAGTCCAGCTGCTGCTCATACTACTGATACTGCTGGGTATAAT
+  166  GCAATGGAAGAAAGTGTGAGCAGGGAGAAGCCAGAATTGACAGCTTCAACAGAAAGGGTCAACAAAAGAA
+  167  TGTCCATGGTGGTGTCTGGCCTGACCCCAGAAGAATTTATGCTCGTGTACAAGTTTGCCAGAAAACACCA
+  168  CATCACTTTAACTAATCTAATTACTGAAGAGACTACTCATGTTGTTATGAAAACAGATGCTGAGTTTGTG
+  169  TGTGAACGGACACTGAAATATTTTCTAGGAATTGCGGGAGGAAAATGGGTAGTTAGCTATTTCTGGGTGA
+  170  CCCAGTCTATTAAAGAAAGAAAAATGCTGAATGAGCATGATTTTGAAGTCAGAGGAGATGTGGTCAATGG
+  171  AAGAAACCACCAAGGTCCAAAGCGAGCAAGAGAATCCCAGGACAGAAAGATCTTCAGGGGGCTAGAAATC
+  172  TGTTGCTATGGGCCCTTCACCAACATGCCCACAGATCAACTGGAATGGATGGTACAGCTGTGTGGTGCTT
+  173  CTGTGGTGAAGGAGCTTTCATCATTCACCCTTGGCACAGGTGTCCACCCAATTGTGGTTGTGCAGCCAGA
+  174  TGCCTGGACAGAGGACAATGGCTTCCATGCAATTGGGCAGATGTGTGAGGCACCTGTGGTGACCCGAGAG
+  175  TGGGTGTTGGACAGTGTAGCACTCTACCAGTGCCAGGAGCTGGACACCTACCTGATACCCCAGATCCCCC
+  176  ACAGCCACTACTGACTGCAGCCAGCCACAGGTACAGAGCCACAGGACCCCAAGAATGAGCTTACAAAGTG
+  177  GCCTTTCCAGGCCCTGGGAGCTCCTCTCACTCTTCAGTCCTTCTACTGTCCTGGCTACTAAATATTTTAT
+  178  GTACATCAGCCTGAAAAGGACTTCTGGCTATGCAAGGGTCCCTTAAAGATTTTCTGCTTGAAGTCTCCCT
+  179  TGGAAATCTGCCATGAGCACAAAATTATGGTAATTTTTCACCTGAGAAGATTTTAAAACCATTTAAACGC
+  180  CACCAATTGAGCAAGATGCTGATTCATTATTTATCAGCCCTATTCTTTCTATTCAGGCTGTTGTTGGCTT
+  181  AGGGCTGGAAGCACAGAGTGGCTTGGCCTCAAGAGAATAGCTGGTTTCCCTAAGTTTACTTCTCTAAAAC
+  182  CCTGTGTTCACAAAGGCAGAGAGTCAGACCCTTCAATGGAAGGAGAGTGCTTGGGATCGATTATGTGACT
+  183  TAAAGTCAGAATAGTCCTTGGGCAGTTCTCAAATGTTGGAGTGGAACATTGGGGAGGAAATTCTGAGGCA
+  184  GGTATTAGAAATGAAAAGGAAACTTGAAACCTGGGCATGGTGGCTCACGCCTGTAATCCCAGCACTTTGG
+  185  GAGGCCAAGGTGGGCAGATCACTGGAGGTCAGGAGTTCGAAACCAGCCTGGCCAACATGGTGAAACCCCA
+  186  TCTCTACTAAAAATACAGAAATTAGCCGGTCATGGTGGTGGACACCTGTAATCCCAGCTACTCAGGTGGC
+  187  TAAGGCAGGAGAATCACTTCAGCCCGGGAGGTGGAGGTTGCAGTGAGCCAAGATCATACCACGGCACTCC
+  188  AGCCTGGGTGACAGTGAGACTGTGGCTCAAAAAAAAAAAAAAAAAAAGGAAAATGAAACTAGAAGAGATT
+  189  TCTAAAAGTCTGAGATATATTTGCTAGATTTCTAAAGAATGTGTTCTAAAACAGCAGAAGATTTTCAAGA
+  190  ACCGGTTTCCAAAGACAGTCTTCTAATTCCTCATTAGTAATAAGTAAAATGTTTATTGTTGTAGCTCTGG
+  191  TATATAATCCATTCCTCTTAAAATATAAGACCTCTGGCATGAATATTTCATATCTATAAAATGACAGATC
+  192  CCACCAGGAAGGAAGCTGTTGCTTTCTTTGAGGTGATTTTTTTCCTTTGCTCCCTGTTGCTGAAACCATA
+  193  CAGCTTCATAAATAATTTTGCTTGCTGAAGGAAGAAAAAGTGTTTTTCATAAACCCATTATCCAGGACTG
+  194  TTTATAGCTGTTGGAAGGACTAGGTCTTCCCTAGCCCCCCCAGTGTGCAAGGGCAGTGAAGACTTGATTG
+  195  TACAAAATACGTTTTGTAAATGTTGTGCTGTTAACACTGCAAATAAACTTGGTAGCAAACACTTCCAAAA
+  196  ls
+  197  less seqs.fa 
+  198  wc seqs.fa 
+  199  more seqs.fa 
+  200  wc seqs.fa 
+  201  tail -n3 seqs.fa 
+  202  mv seqs.fa cancer_genes.fasta
+  203  curl https://github.com/srobb1/pfb2017/blob/master/files/cuffdiff.txt
+  204  curl https://raw.githubusercontent.com/srobb1/pfb2017/master/files/cuffdiff.txt > cuff.txt
+  205  cat cuff.txt 
+  206  head cuff.txt 
+  207  clear
+  208  head cuff.txt 
+  209  head -n1 cuff.txt 
+  210  man sort
+  211  sort -n
+  212  sort -n10 cuff.txt > sorted.cuffdiff.out
+  213  sort --help
+  214  sort -h
+  215  sort --help
+  216  sort -k 10 cuff.txt > sorted.cuffdiff.out
+  217  cat sorted.cuffdiff.out 
+  218  cat sorted.cuffdiff.out > less
+  219  cat sorted.cuffdiff.out > head
+  220  ls
+  221  ls -lh
+  222  head sorted.cuffdiff.out 
+  223  sort --help
+  224  head sorted.cuffdiff.out 
+  225  sort -r -k 10 cuff.txt > sorted.cuffdiff.out
+  226  head sorted.cuffdiff.out 
+  227  column -t sorted.cuffdiff.out 
+  228  column -t sorted.cuffdiff.out | head
+  229  cat sorted.cuffdiff.out | head -n100 > top100.sorted.cufdiff.out
+  230  column -t top100.sorted.cufdiff.out 
+  231  wc top100.sorted.cufdiff.out 
+  232  sort top100.sorted.cufdiff.out | head -n1
+  233  sort top100.sorted.cufdiff.out | cut -f1 | head
+  234  sort top100.sorted.cufdiff.out | cut -f1 | sort uniq | head
+  235  sort top100.sorted.cufdiff.out | cut -f1 | sort unique | head
+  236  uniq --help
+  237  sort top100.sorted.cufdiff.out | cut -f1 | sort uniq | head
+  238  sort top100.sorted.cufdiff.out | cut -f1 | sort | uniq | head
+  239  sort top100.sorted.cufdiff.out | cut -f1 | sort | uniq | head -n100 > differentially.expressed.genes.txt
+  240  head differentially.expressed.genes.txt 
+  241  wc differentially.expressed.genes.txt 
+  242  sort top100.sorted.cufdiff.out | cut -f3 | sort | uniq | head -n10
+  243  cd
+  244  ls
+  245  /
+  246  ls
+  247  cd /
+  248  ls
+  249  ls -ah
+  250  ls -als
+  251  ls *.
+  252  ls .*
+  253  ls -als
+  254  cd /
+  255  ls
+  256  cd
+  257  ls
+  258  cd
+  259  ls
+  260  ls -lh
+  261  ls -lh
+  262  cd Desktop/files/
+  263  ls -lh
+  264  mkdir Unix_problem_set1
+  265  cd Unix_problem_set1/
+  266  cd ..
+  267  ls -l
+  268  cd
+  269  ls
+  270  cd Desktop/
+  271  ls -lh
+  272  cd files/
+  273  ls -lh
+  274  ls -F
+  275  ls -Fah
+  276  ls -lh
+  277  cd
+  278  cd /
+  279  ls -lh
+  280  cd home
+  281  ls
+  282  cd
+  283  ls -lh
+  284  cd
+  285  ls
+  286  mv problemsets Desktop/files/Unix_problem_set1/
+  287  ls
+  288  cd Desktop/files/Unix_problem_set1/
+  289  ls -lh
+  290  cd problemsets/
+  291  ls -lh
+  292  cd ..
+  293  ls
+  294  cd
+  295  ls
+  296  cd Desktop/files/
+  297  ls
+  298  cd Unix_problem_set1/
+  299  ls
+  300  mv problemsets problemsets1
+  301  ls
+  302  cd problemsets1/
+  303  ls
+  304  ls
+  305  cd ..
+  306  ls -lh
+  307  cd ..
+  308  ls 
+  309  ls -lh
+  310  cd Unix_problem_set1/
+  311  ls
+  312  git init problemsets1/
+  313  echo "# pfb2017_problemsets" >> README.md
+  314  git init
+  315  git add README.md
+  316  git commit -m "first commit"
+  317  git remote add origin https://github.com/underbais/pfb2017_problemsets.git
+  318  git push -u origin master
+  319  git add *
+  320  git commit -m 'adding previous problem set files'
+  321  git push
+  322  ls -lh
+  323  ls -lh
+  324  cd problemsets1/
+  325  ls -lh
+  326  cat > new_file.txt
+  327  ls -lh
+  328  git add new_file.txt 
+  329  git commit -m "new file commit"
+  330  git remote add origin https://github.com/underbais/pfb2017_problemsets.git
+  331  git push -u origin master
+  332  git add new_file.txt 
+  333  git commit -m "new file commit"
+  334  ls -lh
+  335  git init
+  336  git add new_file.txt 
+  337  git commit -m "new file commit"
+  338  git add *
+  339  git commit -m "new file commit"
+  340  git push -u origin master
+  341  ls -lh
+  342  git status
+  343  git add new_file.txt 
+  344  git status
+  345  ls -lh
+  346  git pull https://github.com/underbais/pfb2017_problemsets/tree/master/problemsets1
+  347  get pull
+  348  git pull
+  349  git config --list
+  350  git status
+  351  git push origin master
+  352  git pull origin master
+  353  git push origin master
+  354  git merge 
+  355  git fpull
+  356  git pull
+  357  ls
+  358  l
+  359  ls -l
+  360  git diff
+  361  ls -a
+  362  rm -rf ./.git/
+  363  ls
+  364  git init
+  365  git remote add origin https://github.com/underbais/pfb2017_problemsets.git
+  366  git pull
+  367  git pull origin master
+  368  git add problemsets1/
+  369  git add README.md 
+  370  git commit -m "initial commit"
+  371  git pull origin master
+  372  git push origin master
+  373  cat new.txt
+  374  echo "this is new file" >> new.txt
+  375  git add new.txt 
+  376  git status
+  377  git commit -m "added new file"
+  378  git push
+  379  git push origin master
+  380  git mv new.txt problemsets1/
+  381  git status
+  382  git commit -m "moved"
+  383  git push
+  384  git push origin master
+  385  git status
+  386  echo "another new file" >> new2.txt
+  387  ls
+  388  ls -lh
+  389  git commit new2.txt 
+  390  git add new2.txt 
+  391  git commit -m "another new2 file"
+  392  git push
+  393  git push origin master
+  394  git mv new2.txt problemsets1/
+  395  git push origin master
+  396  git commit -m "oops"
+  397  git push origin master
+  398  ls -lh
+  399  pwd
+  400  cd problemsets1/
+  401  ls
+  402  cat new3.txt << echo "file 3 content"
+  403  ls -lh
+  404  cd ..
+  405  ls
+  406  cd problemsets1/
+  407  ls
+  408  echo "file 3" >> new3.txt
+  409  ls
+  410  git add new3.txt 
+  411  git commit -m "file 3 added"
+  412  git push origin master
+  413  ls -lh
+  414  mkdir new_folder
+  415  cd new
+  416  cd new_folder/
+  417  touch file1
+  418  touch file2
+  419  touch file3
+  420  ls
+  421  cd ..
+  422  ls
+  423  ls -lh
+  424  cd new_folder/
+  425  git init
+  426  git add *
+  427  git commit -m "new folder commit"
+  428  git push
+  429  git push origin master
+  430  git push new_folder master
+  431  cd ..
+  432  ls
+  433  ls -l
+  434  pwd
+  435  git add *
+  436  git commit -m "new folder added"
+  437  git push origin master
+  438  git status
+  439  git add new_folder/
+  440  git commit -m "new folde added again"
+  441  git add new_folder/*
+  442  ls -lh
+  443  pwd
+  444  git status
+  445  git add new_folder/
+  446  git commit -m ' adding new folder'
+  447  git add new_folder/file1 
+  448  cd ..
+  449  git status
+  450  ls
+  451  cd problemsets1/
+  452  ls
+  453  cd ..
+  454  ls
+  455  pwd
+  456  ls
+  457  cd problemsets1/
+  458  pwd
+  459  ls
+  460  ls
+  461  cd new_folder/
+  462  ls
+  463  git add file*
+  464  git commit -m 'adding files'
+  465  cd ..
+  466  git add new_folder/file*
+  467  cd ..
+  468  git add problemsets1/new_folder/file*
+  469  git status
+  470  ls
+  471  cd problemsets1/
+  472  ls
+  473  pwd
+  474  ls -lh
+  475  cd new_folder/
+  476  ls
+  477  history | tail -20
+  478  history | tail -30
+  479  ls
+  480  ls -a
+  481  cd ../
+  482  ls
+  483  pwd
+  484  ls
+  485  cd ../
+  486  ls
+  487  ls -a
+  488  pwd
+  489  ls
+  490  ls problemsets1/
+  491  ls
+  492  l .git/
+  493  ls
+  494  ls -lh
+  495  pwd
+  496  rm problemsets1/
+  497  rmdir problemsets1/
+  498  rmdir -f problemsets1/
+  499  cd problemsets1/
+  500  ls
+  501  rm *
+  502  ls -lh
+  503  ls
+  504  pwd
+  505  cd ..
+  506  cd problemsets1/
+  507  ls -lh
+  508  cd ..
+  509  ls
+  510  rmdir problemsets1/
+  511  ls -lh
+  512  rm README.md 
+  513  ls -lh
+  514  rm new_file.txt 
+  515  ls -lh
+  516  rm head less
+  517  ls -lh
+  518  echo "# new_pfb2017_problemlsets" >> README.md
+  519  ls -lh
+  520  git init
+  521  git add README.md 
+  522  git commit -m "first commit"
+  523  git remote add origin https://github.com/underbais/new_pfb2017_problemlsets.git
+  524  git push -u origin master
+  525  git remote add origin https://github.com/underbais/new_pfb2017_problemlsets.git
+  526  git push -u origin master
+  527  ls -a
+  528  pwd
+  529  ls -lh
+  530  ls -ah
+  531  ls -lh
+  532  echo "# new_pfb2017_problemlsets" >> README.md
+  533  git init
+  534  git add README.md
+  535  git commit -m "first commit"
+  536  git remote add origin https://github.com/underbais/new_pfb2017_problemlsets.git
+  537  git push -u origin master
+  538  ls -lh
+  539  pwd
+  540  git status
+  541  pwd
+  542  ls -a
+  543  ls -a
+  544  ls -ah
+  545  pwd
+  546  cd ..
+  547  ls -lh
+  548  pwd
+  549  mkdir new_problemset1
+  550  ls -a
+  551  pwd
+  552  cd new_problemset1/
+  553  pwd
+  554  cd ..
+  555  ls
+  556  cd problemsets1/
+  557  ls
+  558  cp cancer_genes.fasta cuff.txt differentially.expressed.genes.txt sorted.cuffdiff.out top100.sorted.cufdiff.out /Users/admin/Desktop/files/Unix_problem_set1/new_problemset1
+  559  cd ..
+  560  l
+  561  ls
+  562  cd new_problemset1/
+  563  ls -lh
+  564  pwd
+  565  echo "# new_pfb2017_problemlsets" >> README.md
+  566  ls -lh
+  567  git init
+  568  git add README.md 
+  569  git commit -m "new repo commit"
+  570  git remote add origin https://github.com/underbais/new_pfb2017_problemlsets.git
+  571  git push -u origin master
+  572  pwd
+  573  ls -lh
+  574  mkdir new_folder
+  575  cd new_folder/
+  576  echo 'new file' >> new.txt
+  577  ls -lh
+  578  pwd
+  579  cd ..
+  580  ls
+  581  ls -lh
+  582  git add new_folder/
+  583  git commit -m 'added new folder'
+  584  git push origin master
+  585  ls -lh
+  586  echo "another new file" >> newfile.txt
+  587  pwd
+  588  ls -lh
+  589  git add newfile.txt 
+  590  git commit -m 'new file added'
+  591  git push
+  592  nano mysequences.txt
+  593  ls
+  594  ls
+  595  ls -lh
+  596  git add mysequences.txt 
+  597  git commit -m "myseq added"
+  598  git push
+  599  mkdir fastas
+  600  ls
+  601  cp cancer_genes.fasta fastas
+  602  rm cancer_genes.fasta 
+  603  git add *
+  604  git commit -m "folde added"
+  605  git push
+  606  history > unixBasics.history.txt
